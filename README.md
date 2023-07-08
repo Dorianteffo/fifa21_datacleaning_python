@@ -6,19 +6,19 @@ For this project, we have used the fifa21_raw_data_V2.csv from Kaggle : https://
 
 In this small data cleaning project,we have done many tasks :
 
-    Convert the height and weight datatypes to numerical forms
+* Convert the height and weight datatypes to numerical forms
 
-    Remove the unnecessary newline characters from all columns that have them
+* Remove the unnecessary newline characters from all columns that have them
 
-    Separate the joined column into year, month and day column
+* Separate the joined column into year, month and day column
 
-    Convert the Loan Date End column to datetime type
+* Convert the Loan Date End column to datetime type
 
-    Convert the 'Value', 'Wage' and "Release Clause' columns to numbers
+* Convert the 'Value', 'Wage' and "Release Clause' columns to numbers
 
-    Convert the Hits column to integer
+* Convert the Hits column to integer
 
-    Some columns have 'star' characters. Strip those columns of these stars and make the columns numerical
+* Some columns have 'star' characters. Strip those columns of these stars and make the columns numerical
 
 
 
